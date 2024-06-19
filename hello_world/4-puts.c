@@ -1,3 +1,4 @@
+#include <4-puts.c>
 
 int main(void)
 {
