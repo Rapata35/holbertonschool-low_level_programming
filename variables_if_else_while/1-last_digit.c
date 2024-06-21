@@ -3,7 +3,7 @@
 #include <time.h>
 /**
 * main - Entry point of the program
-* Description n > 5 greater than 5, n==0, n < 6 less than 6 and not 0.
+* Description n > 5 greater than 5 ,n==0 ,n < 6 less than 6 and not 0.
 * Return:0 succes
 * betty style doc for function main goes there
 */
