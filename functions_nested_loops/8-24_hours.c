@@ -9,17 +9,6 @@ void jack_bauer(void)
 
 	for (hour = 0; hour < 24; hour++)
 	{
-#include "main.h"
-
-/**
- * jack_bauer - pf the day of Jack Bauer, from 00:00 to 23:59
- */
-void jack_bauer(void)
-{
-	int hour, minute;
-
-	for (hour = 0; hour < 24; hour++)
-	{
 		for (minute = 0; minute < 60; minute++)
 		{
 			/* Print the r and minute in HH:MM format */
